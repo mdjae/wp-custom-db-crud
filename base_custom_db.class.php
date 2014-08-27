@@ -7,7 +7,6 @@ abstract class Base_Custom_Db
 
     /**
      * Constructor for the database class to inject the table name
-     *
      * @param String $tableName - The current table name
      */
      
